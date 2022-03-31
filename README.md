@@ -2,7 +2,7 @@
 
 ### Description
 
-In this project, I used my OOP skills to implement the structure below.
+One of the most common tasks in OOP, it also did not bypass me. In this project, I used my OOP skills to create a console application following the structure below.
 
 ### Structure
 
